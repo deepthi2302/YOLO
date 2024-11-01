@@ -53,3 +53,5 @@ print(results[0].boxes) # print the bounding boxes
 print(results[0].masks) # print the masks
 print(results[0].keypoints) # print the keypoints
 print(results[0].probs) # print the probabilities for each class
+
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/5a654a14-1d04-42be-a534-116758de6753">
